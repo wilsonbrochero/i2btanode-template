@@ -1,0 +1,27 @@
+{
+  "name": "i2btanode-template",
+  "version": "1.0.0",
+  "description": "I2B Trinity Architecture NodeJs",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonbrochero/i2btanode-template.git"
+  },
+  "keywords": [
+    "i2b",
+    "backen",
+    "nodejs",
+    "trinity",
+    "serverless",
+    "mongodb"
+  ],
+  "author": "I2B TECHNOLOGIES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonbrochero/i2btanode-template/issues"
+  },
+  "homepage": "https://github.com/wilsonbrochero/i2btanode-template#readme"
+}
